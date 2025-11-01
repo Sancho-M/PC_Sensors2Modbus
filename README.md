@@ -1,8 +1,8 @@
 <div style="text-align: center;">
-  <p style="margin-bottom: 20px;">
-    <img src="https://i.ibb.co/ccfsmvw8/image.png" width="64" height="64">
+  <p style="margin-bottom: 10px;">
+    <img src="https://i.ibb.co/ccfsmvw8/image.png" width="80" height="80">
   </p>
-  <p style="font-size: 12em; font-weight: bold; margin-top: 0;">Sensors2Modbus</p>
+  <p style="font-size: 3em; font-weight: bold; margin: 0;">Sensors2Modbus</p>
 </div>
 
 A small C# console application that runs in the system tray, collects PC sensor data, and exposes it via the Modbus RTU protocol through a serial (COM) port.
