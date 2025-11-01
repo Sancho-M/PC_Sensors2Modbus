@@ -4,7 +4,7 @@
   </div>
 </div>
 
-## Sensors2Modbus
+## About
 
 A small C# console application that runs in the system tray, collects PC sensor data, and exposes it via the Modbus RTU protocol through a serial (COM) port.
 
