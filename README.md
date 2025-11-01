@@ -1,7 +1,7 @@
 <div style="text-align: center; width: 100%;">
   <div style="display: inline-block; text-align: center;">
     <img src="https://i.ibb.co/ccfsmvw8/image.png" width="80" height="80" style="display: block; margin: 0 auto 5px auto;">
-    <span style="font-size: 3em; font-weight: bold; display: block; margin-left: 15px; margin-top: -5px;">Sensors2Modbus</span>
+    <span style="font-size: 3em; font-weight: bold; display: block; margin-left: 15px; margin-top: -5px;"> ## Sensors2Modbus</span>
   </div>
 </div>
 
