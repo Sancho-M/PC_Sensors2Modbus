@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PC_Sensors2Modbus", "PC_Sensors2Modbus\PC_Sensors2Modbus.csproj", "{B06FF1BD-4DF2-4F75-B506-12EA2C932DC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensors2Modbus", "Sensors2Modbus\Sensors2Modbus.csproj", "{B06FF1BD-4DF2-4F75-B506-12EA2C932DC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
