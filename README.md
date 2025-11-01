@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://i.ibb.co/ccfsmvw8/image.png" width="128" height="128">
-</p>
-
- # SensorsToModbus
+| <img src="https://i.ibb.co/ccfsmvw8/image.png" width="64" height="64" style="vertical-align: middle; margin-right: 15px;"> | # SensorsToModbus |
+|:---:|:---|
 
 A small C# console application that runs in the system tray, collects PC sensor data, and exposes it via the Modbus RTU protocol through a serial (COM) port.
 
