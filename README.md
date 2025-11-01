@@ -1,4 +1,8 @@
-﻿# SensorsToModbus
+<p align="center">
+  <img src="https://ibb.co/4Zv0Qf2S" width="128">
+</p>
+
+ # SensorsToModbus
 
 A small C# console application that runs in the system tray, collects PC sensor data, and exposes it via the Modbus RTU protocol through a serial (COM) port.
 
