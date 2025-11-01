@@ -1,7 +1,5 @@
-<div style="text-align: center; width: 100%;">
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://i.ibb.co/ccfsmvw8/image.png" width="80" height="80" style="display: block; margin: 0 auto 5px auto;">
-  </div>
+<div align="center">
+  <img src="https://i.ibb.co/ccfsmvw8/image.png" width="80" height="80">
 </div>
 
 ## About
