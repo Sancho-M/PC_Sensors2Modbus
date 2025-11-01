@@ -1,6 +1,6 @@
 ﻿SensorsToModbus
 
-A professional C# console application that runs in the system tray, collects sensor data from your PC, and provides access to it via the Modbus RTU protocol through a serial port (COM).
+A small C# console application that runs in the system tray, collects PC sensor data, and makes it available via the Modbus RTU protocol through a serial (COM) port.
 
 Installation & Running
 
@@ -39,18 +39,16 @@ cd SensorsToModbus
 Libralies Used
 
 NModbus - Modbus protocol implementation
-
 LibreHardwareMonitorLib - Hardware sensor data collection
 
-
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Third-Party Licenses
+
 This software uses the following third-party libraries:
-
 LibreHardwareMonitorLib - Licensed under Mozilla Public License 2.0
-
 NModbus - Licensed under MIT License
 
 
