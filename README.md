@@ -85,4 +85,4 @@ This software uses the following third-party libraries:
 ### ⚠️ Attention
 
 After making changes to the configuration, 
-"click the reload utility" option in the tray.
+click the "reload utility" option in the tray.
