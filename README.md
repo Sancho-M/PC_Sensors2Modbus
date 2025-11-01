@@ -4,7 +4,7 @@
 
 ## About
 
-A lightweight C# console application that runs in the system tray, collects PC sensor data, and exposes it via the Modbus RTU protocol through a serial (COM) port.
+A lightweight C# console application that runs in the system tray, collects PC sensor data, and transmits it using Modbus RTU over serial (COM) port.
 
 ---
 
