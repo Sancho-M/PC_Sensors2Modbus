@@ -376,7 +376,7 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
   defined by the Mozilla Public License, v. 2.0.
 
 
-License notice for nmodbus
+License notice for NModbus
 ---------------------------------------
 The MIT License (MIT)
 
