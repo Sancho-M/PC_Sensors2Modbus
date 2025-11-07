@@ -60,7 +60,7 @@ Right-click the tray icon to access:
 
 ```bash
 git clone https://github.com/Sancho-M/Sensors2Modbus
-cd SensorsToModbus
+cd Sensors2Modbus
 ```
 
 ---
